@@ -7,9 +7,9 @@
 ---
  🧠 #About Me
 --- 
-💻 Backend Developer specialized in ASP.NET Core
-🤖 Passionate about AI-powered systems
-🏗️ Building scalable, real-world backend architectures
+💻 Backend Developer specialized in ASP.NET Core  
+🤖 Passionate about AI-powered systems  
+🏗️ Building scalable, real-world backend architectures  
 
 I don’t just build APIs — I build systems that are ready to become intelligent.
 
