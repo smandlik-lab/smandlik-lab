@@ -4,6 +4,7 @@
                                                     **Senior Full Stack Developer**
 ---
 ![image](https://smandlik-lab.github.io/Artificial-Intelligence-AI/LinkedIn-CoverPage-Sagar.png)
+![image](https://smandlik-lab.github.io/Artificial-Intelligence-AI/AI-Powered-FullStack-Skills-Mapping.png)
 ---
  🧠 #About Me
 --- 
