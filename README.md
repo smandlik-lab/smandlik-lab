@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I am SagaR 👋</h1>
----
+
 <h3 align="center">Senior Full Stack Developer</h3>
 
 ---
