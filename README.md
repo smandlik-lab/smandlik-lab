@@ -1,7 +1,7 @@
 
   #Hi there, I am SagaR 👋
 ---
-                                                    #**Senior Full Stack Developer**
+                                                    **Senior Full Stack Developer**
 ---
 ![image](https://smandlik-lab.github.io/Artificial-Intelligence-AI/LinkedIn-CoverPage-Sagar.png)
 ---
@@ -19,9 +19,9 @@ I don’t just build APIs — I build systems that are ready to become intellige
 
 🎯 #Current Focus 
 
-AI Integration in Backend Systems
-Recommendation Systems
-Scalable System Design
+AI Integration in Backend Systems  
+Recommendation Systems  
+Scalable System Design  
 
 ---
 
