@@ -1,5 +1,5 @@
 
-                                                    ##Hi there, I am SagaR 👋
+  #Hi there, I am SagaR 👋
 ---
                                                     #Senior Full Stack Developer
 ---
