@@ -1,10 +1,10 @@
-## Hi there 👋
- I am SagaR
- ---
-Senior Full Stack Developer
- ---
+
+                                                    ## Hi there, I am SagaR 👋
+---
+                                                    Senior Full Stack Developer
+---
  🧠 #About Me
- --- 
+--- 
 💻 Backend Developer specialized in ASP.NET Core
 🤖 Passionate about AI-powered systems
 🏗️ Building scalable, real-world backend architectures
