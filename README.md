@@ -10,7 +10,7 @@
 ---
  🧠 #About Me
 --- 
-💻 Backend Developer specialized in ASP.NET Core  
+💻 Fullstack Developer specialized in ASP.NET Core  
 🤖 Passionate about AI-powered systems  
 🏗️ Building scalable, real-world backend architectures  
 
@@ -20,7 +20,7 @@ I don’t just build APIs — I build systems that are ready to become intellige
 
 🎯 #Current Focus 
 
-- AI Integration in Backend Systems  
+- AI Integration in Backend, Frontend & DevOps Systems  
 - Recommendation Systems  
 - Scalable System Design  
 
@@ -39,4 +39,4 @@ I don’t just build APIs — I build systems that are ready to become intellige
 
 ---
 ⚡#Philosophy
-"Software is powerful. AI makes it intelligent."
+"Software is powerful. AI makes it Super Intelligent."
