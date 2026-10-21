@@ -26,9 +26,9 @@ Scalable System Design
 Node.js React.js .NET Core TypeScript Rust Next.js Kubernetes PyTorch
 ---
 
-📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/sagar-mandlik-61a5b927
-📧 Email: smandlik.learn@gmail.com
+📫 Connect With Me  
+💼 LinkedIn: https://www.linkedin.com/in/sagar-mandlik-61a5b927  
+📧 Email: smandlik.learn@gmail.com  
 ---
 ⚡#Philosophy
 "Software is powerful. AI makes it intelligent."
