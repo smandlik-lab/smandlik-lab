@@ -25,7 +25,7 @@ I don’t just build APIs — I build systems that are ready to become intellige
 
 #Languages and Tools
 ---
-[React.js](https://react.dev/) [.NET Core](https://dotnet.microsoft.com/) [AWS](https://aws.amazon.com/) [Kubernetes](https://kubernetes.io/) 
+![image](https://react.dev/) ![image](https://dotnet.microsoft.com/) ![image](https://aws.amazon.com/) ![image](https://kubernetes.io/) 
 
 ![image](https://camo.githubusercontent.com/3ae8d40b6c36f04951f7e82fcbd581676ca68a37fc742597ab8774332766c1e7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c706f73746d616e2c76697375616c73747564696f2c7673636f6465)
 ---
