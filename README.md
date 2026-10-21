@@ -14,7 +14,7 @@
 🤖 Passionate about AI-powered systems  
 🏗️ Building scalable, real-world backend architectures  
 
-I don’t just build APIs — I build systems that are ready to become intelligent.
+I build systems that solve the real world problem and are ready to become intelligent system.
 
 ---
 
