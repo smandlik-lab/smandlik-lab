@@ -38,4 +38,4 @@ I don’t just build APIs — I build systems that are ready to become intellige
 📧 Email: smandlik.learn@gmail.com  
 
 ---
-⚡<h4 align="lef">"Software is powerful. AI makes it Super Intelligent."</h4>
+<h5 align="left">⚡"Software is powerful. AI makes it Super Intelligent."</h5>
